@@ -21,16 +21,6 @@ Using 2D Unsteady Reynolds-Averaged Navier-Stokes (URANS) CFD simulations in Sie
 
 ---
 
-## Simulation Specifications
-
-* **Software:** Siemens Star-CCM+
-* **Turbulence Model:** Shear-Stress Transport (SST) $k$-$\omega$
-* **Mesh Base Size:** $d_o/5$ with boundary layer prism refinement
-* **Domain Geometry:** Inline tube bank, $X_t^* = 6$, $X_l^* = 1.25$
-* **Boundary Conditions:** Isothermal wall ($T_{\text{wall}} = 373.15\text{ K}$), Inlet air ($T_{\text{in}} = 300\text{ K}$)
-
----
-
 ## Author & Acknowledgements
 
 * **Author:** Dil H. H. Patel (King's College, University of Cambridge)
